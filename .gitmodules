@@ -1,0 +1,9 @@
+[submodule "lib/cvat"]
+	path = lib/cvat
+	url = git@github.com:cvat-ai/cvat.git
+[submodule "lib/sam"]
+	path = lib/sam
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "lib/internvideo"]
+	path = lib/internvideo
+	url = https://github.com/OpenGVLab/InternVideo.git
